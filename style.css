@@ -1,0 +1,178 @@
+body {
+  background-image: url("./images/bg-header-desktop.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin: 0px;
+}
+
+body h2 {
+  margin-top: 100px;
+}
+
+.logo {
+  width: 80px;
+  height: 80px;
+  padding-bottom: 20px;
+}
+
+.layout {
+  text-align: center;
+  max-width: 500px;
+  margin-top: 100px;
+  margin-left: 500px;
+}
+
+.text-first {
+  color: gray;
+  padding-bottom: 20px;
+  width: 500px;
+  line-height: 25px;
+}
+
+.text-second {
+  color: gray;
+  padding-bottom: 20px;
+  width: 550px;
+  line-height: 25px;
+}
+
+.first-button {
+  background-color: #26b9a5;
+  border-color: #26b9a5;
+  border-radius: 20px;
+  padding-left: 20px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 20px;
+  color: white;
+  margin-right: 10px;
+}
+
+.second-button {
+  background-color: #6474fa;
+  border-color: #6474fa;
+  border-radius: 20px;
+  padding-left: 20px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 20px;
+  color: white;
+}
+
+.computer img {
+  margin-left: -60px;
+  margin-right: 100px;
+  float: left;
+  height: 500px;
+  width: 700px;
+}
+
+.second-page {
+  margin-top: 100px;
+  padding-top: 30px;
+}
+
+.second-page p {
+  line-height: 25px;
+  margin-right: 470px;
+  margin-bottom: 50px;
+  color: gray;
+}
+
+.bottom {
+  text-align: center;
+  margin-top: 200px;
+  width: 550px;
+  margin-left: 500px;
+}
+
+.bottom p {
+  color: gray;
+}
+
+.third-page img {
+  margin-top: 100px;
+  margin-left: 350px;
+  height: 500px;
+}
+
+.third-page h1 {
+  text-align: center;
+}
+
+.third-page p {
+  color: gray;
+  text-align: center;
+}
+
+.grid-container {
+  margin-top: 50px;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+}
+
+.grid-item {
+  padding: 20px;
+  text-align: center;
+}
+
+.grid-item p {
+  color: gray;
+  width: 310px;
+  margin-left: 70px;
+}
+
+.grid-container-2 {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+}
+
+.items {
+  padding: 20px;
+  margin-left: 70px;
+  margin-top: 80px;
+}
+
+.grid-bottom {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.grid-bottom p {
+  color: gray;
+  width: 550px;
+  margin-left: 470px;
+  margin-bottom: 35px;
+}
+
+.footer {
+  margin-top: 100px;
+  padding: 30px 40px 5px;
+}
+
+.copyicon {
+  height: 50px;
+  width: 50px;
+  padding: 20px 50px 50px 100px;
+}
+.grid {
+  display: grid;
+  grid-template-columns: 400px 750px 250px;
+}
+.grid-3 {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  margin-top: 15px;
+  margin-right: 150px;
+}
+.grid-4 {
+  display: grid;
+  grid-template-columns: 50px 50px 50px;
+  margin-top: 30px;
+}
+
+.bottom-page {
+  background-color: rgb(209, 208, 208);
+  background-size: cover;
+}
